@@ -11,7 +11,7 @@ import UIKit
 class ViewController: UITableViewController {
     
     var pictures = [String]()
-
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         
@@ -54,6 +54,6 @@ class ViewController: UITableViewController {
             navigationController?.pushViewController(vc, animated: true)
         }
     }
-
+    
 }
 
