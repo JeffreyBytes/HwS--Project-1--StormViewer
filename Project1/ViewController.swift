@@ -18,6 +18,13 @@ class ViewController: UITableViewController {
         navigationController?.navigationBar.prefersLargeTitles = true
         title = "Storm Viewer"
         
+        getPictures()
+    }
+    
+    // Mark: - General Functions
+    
+    func getPictures() {
+        
         let fm = FileManager.default
         let path = Bundle.main.resourcePath!
         let items = try! fm.contentsOfDirectory(atPath: path)
@@ -28,8 +35,14 @@ class ViewController: UITableViewController {
             }
         }
         
-        print(pictures)
+        sortPicturesArray()
     }
+    
+    func sortPicturesArray() {
+        pictures.sort()
+    }
+    
+    // Mark: - tableView Functions
     
     override func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         return pictures.count
