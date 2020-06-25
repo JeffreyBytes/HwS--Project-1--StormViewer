@@ -13,6 +13,16 @@
 		7388BE0324A531DF00C454C6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7388BE0124A531DF00C454C6 /* Main.storyboard */; };
 		7388BE0524A531E000C454C6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7388BE0424A531E000C454C6 /* Assets.xcassets */; };
 		7388BE0824A531E000C454C6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7388BE0624A531E000C454C6 /* LaunchScreen.storyboard */; };
+		7388BE1A24A5356700C454C6 /* nssl0049.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7388BE1024A5356700C454C6 /* nssl0049.jpg */; };
+		7388BE1B24A5356700C454C6 /* nssl0046.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7388BE1124A5356700C454C6 /* nssl0046.jpg */; };
+		7388BE1C24A5356700C454C6 /* nssl0091.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7388BE1224A5356700C454C6 /* nssl0091.jpg */; };
+		7388BE1D24A5356700C454C6 /* nssl0045.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7388BE1324A5356700C454C6 /* nssl0045.jpg */; };
+		7388BE1E24A5356700C454C6 /* nssl0051.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7388BE1424A5356700C454C6 /* nssl0051.jpg */; };
+		7388BE1F24A5356700C454C6 /* nssl0041.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7388BE1524A5356700C454C6 /* nssl0041.jpg */; };
+		7388BE2024A5356700C454C6 /* nssl0042.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7388BE1624A5356700C454C6 /* nssl0042.jpg */; };
+		7388BE2124A5356700C454C6 /* nssl0043.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7388BE1724A5356700C454C6 /* nssl0043.jpg */; };
+		7388BE2224A5356700C454C6 /* nssl0033.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7388BE1824A5356700C454C6 /* nssl0033.jpg */; };
+		7388BE2324A5356700C454C6 /* nssl0034.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7388BE1924A5356700C454C6 /* nssl0034.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +34,16 @@
 		7388BE0424A531E000C454C6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7388BE0724A531E000C454C6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7388BE0924A531E000C454C6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7388BE1024A5356700C454C6 /* nssl0049.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0049.jpg; sourceTree = "<group>"; };
+		7388BE1124A5356700C454C6 /* nssl0046.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0046.jpg; sourceTree = "<group>"; };
+		7388BE1224A5356700C454C6 /* nssl0091.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0091.jpg; sourceTree = "<group>"; };
+		7388BE1324A5356700C454C6 /* nssl0045.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0045.jpg; sourceTree = "<group>"; };
+		7388BE1424A5356700C454C6 /* nssl0051.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0051.jpg; sourceTree = "<group>"; };
+		7388BE1524A5356700C454C6 /* nssl0041.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0041.jpg; sourceTree = "<group>"; };
+		7388BE1624A5356700C454C6 /* nssl0042.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0042.jpg; sourceTree = "<group>"; };
+		7388BE1724A5356700C454C6 /* nssl0043.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0043.jpg; sourceTree = "<group>"; };
+		7388BE1824A5356700C454C6 /* nssl0033.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0033.jpg; sourceTree = "<group>"; };
+		7388BE1924A5356700C454C6 /* nssl0034.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0034.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,8 +83,26 @@
 				7388BE0424A531E000C454C6 /* Assets.xcassets */,
 				7388BE0624A531E000C454C6 /* LaunchScreen.storyboard */,
 				7388BE0924A531E000C454C6 /* Info.plist */,
+				7388BE0F24A5356700C454C6 /* Content */,
 			);
 			path = Project1;
+			sourceTree = "<group>";
+		};
+		7388BE0F24A5356700C454C6 /* Content */ = {
+			isa = PBXGroup;
+			children = (
+				7388BE1024A5356700C454C6 /* nssl0049.jpg */,
+				7388BE1124A5356700C454C6 /* nssl0046.jpg */,
+				7388BE1224A5356700C454C6 /* nssl0091.jpg */,
+				7388BE1324A5356700C454C6 /* nssl0045.jpg */,
+				7388BE1424A5356700C454C6 /* nssl0051.jpg */,
+				7388BE1524A5356700C454C6 /* nssl0041.jpg */,
+				7388BE1624A5356700C454C6 /* nssl0042.jpg */,
+				7388BE1724A5356700C454C6 /* nssl0043.jpg */,
+				7388BE1824A5356700C454C6 /* nssl0033.jpg */,
+				7388BE1924A5356700C454C6 /* nssl0034.jpg */,
+			);
+			path = Content;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,8 +163,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7388BE1B24A5356700C454C6 /* nssl0046.jpg in Resources */,
+				7388BE2224A5356700C454C6 /* nssl0033.jpg in Resources */,
+				7388BE1E24A5356700C454C6 /* nssl0051.jpg in Resources */,
+				7388BE1C24A5356700C454C6 /* nssl0091.jpg in Resources */,
+				7388BE2124A5356700C454C6 /* nssl0043.jpg in Resources */,
+				7388BE2324A5356700C454C6 /* nssl0034.jpg in Resources */,
+				7388BE1A24A5356700C454C6 /* nssl0049.jpg in Resources */,
+				7388BE1F24A5356700C454C6 /* nssl0041.jpg in Resources */,
+				7388BE2024A5356700C454C6 /* nssl0042.jpg in Resources */,
 				7388BE0824A531E000C454C6 /* LaunchScreen.storyboard in Resources */,
 				7388BE0524A531E000C454C6 /* Assets.xcassets in Resources */,
+				7388BE1D24A5356700C454C6 /* nssl0045.jpg in Resources */,
 				7388BE0324A531DF00C454C6 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -294,7 +342,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.jeffreycarpenter.Project1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -312,7 +360,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.jeffreycarpenter.Project1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
