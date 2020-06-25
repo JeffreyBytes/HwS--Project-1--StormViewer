@@ -61,6 +61,8 @@ class ViewController: UITableViewController {
             
             // 2: success! Set its selectedImage property
             vc.selectedImage = pictures[indexPath.row]
+            vc.selectedImageNumber = indexPath.row
+            vc.picturesCount = pictures.count
             
             // 3: now push it onto the navitation controller
             
